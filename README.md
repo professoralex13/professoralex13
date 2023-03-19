@@ -1,5 +1,17 @@
 # My Bio
-- 👋 Hi, I’m Alex Cutforth, a Front end developer from Christchurch New Zealand specialising in development using React and Typescript, however I can do backend work using Node if this is something you require for your project.
-- I have a versatile skillset, including Type/Javascript, React, C#, html/css, Python, and SQL.
-- I love aviation and Flight Simulation, I currently develop FMSs for ***FlyByWire Simulations*** and ***Synaptic Simulations***
-- You can reach me through email: alex@densem.net.
+👋 Hi, I’m Alex Cutforth, I like making webapps. Or desktop apps with something like tauri or electron. Typescript forever plz. If typescript aint fast enough then rust. Or python if you are really that boring.
+## Skills
+### Frontend
+- Typescript
+- React
+- Tailwindcss
+- Plain html/css/js if you're that boring
+### Backend
+- Rust
+- Typescript Node
+- C# Maybe if I revise it a bit
+- Python if you really want
+## Interests
+- I love aviation and Flight Simulation. Making simulated plane avionics is the good stuff.
+
+You can reach me through email `alex@densem.net`
